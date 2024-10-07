@@ -1,4 +1,4 @@
-# Retail Data Analysis and Forecasting with Web-based Visualization
+# Demand Forecasting 
 
 This repository contains an analytical project that focuses on customer demographics, transactional data, and product information in the retail domain. It integrates data preprocessing, forecasting, and web-based visualization using Python, making it a comprehensive solution for retail data analysis and predictive modeling.
 
@@ -58,11 +58,7 @@ pip install -r requirements.txt
    ```
 
 3. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
-
-   OR (if using Flask):
+  (if using Flask):
 
    ```bash
    python app.py
